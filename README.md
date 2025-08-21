@@ -1,2 +1,2 @@
-# linked-blog-starter-md
-These are the markdown files for the [linked-blog-starter](https://github.com/matthewwong525/linked-blog-starter) repository
+# OSCP EXAM NOTES
+These are my notes for the oscp exam
